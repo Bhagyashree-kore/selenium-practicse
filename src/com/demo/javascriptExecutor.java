@@ -1,4 +1,4 @@
-package com.demo;
+ package com.demo;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
